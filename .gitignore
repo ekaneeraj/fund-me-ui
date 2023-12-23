@@ -1,0 +1,15 @@
+# Compiler files
+cache/
+out/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+
+.github/
+
+.vscode/
+
+.DS_Store
